@@ -1,0 +1,12 @@
+*{
+  color: #fff
+}
+.container {
+  background-color: #75037E;
+  max-width: 100%;
+  height: 100vh;
+}
+
+.contact h2{
+  color: #000;
+}
