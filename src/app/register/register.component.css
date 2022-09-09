@@ -1,0 +1,36 @@
+* {
+  background: #75037E;
+}
+
+.container {
+  max-width: 100%;
+  height: 100vh;
+}
+
+span {
+  font-weight: bold;
+}
+
+.my_div h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.card {
+  background: #E52DFA;
+}
+
+.card img {
+  background: none;
+}
+.card-body, span, ul , li  {
+  background: none;
+}
+
+
